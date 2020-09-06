@@ -10,9 +10,7 @@ redirect_from:
 
 Welcome! 
 
-I am a broadly trained geography student and it's been self-serving to learn to be a better researcher, writer, teacher, and citizen.
-
-I am generally interested in sustainable land use with particular emphasis on rural livelihoods, nature-based solutions, decision-making for conservation practices and climate adaptation, and developing effective decision support tools.
+I am a broadly trained geography student with specialization in spatial technologies and data-driven modeling techniques. I am generally interested in sustainable land use with particular emphasis on rural livelihoods, nature-based solutions, decision-making for conservation practices and climate adaptation, and developing effective decision support tools.
 
 I explore questions such as:
 
@@ -22,4 +20,4 @@ I explore questions such as:
 
 - What are the values of nature-based solutions to global challenges?
 
-- What practices and policies would work to make production more sustainable and where to start, by who and when?
+- What practices and policies would work to make production more sustainable and where to start, how, by who and when?
