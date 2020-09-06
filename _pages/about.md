@@ -10,7 +10,7 @@ redirect_from:
 
 Welcome! 
 
-I am a broadly trained geography student with specialization in spatial technologies and data-driven modeling techniques. I am generally interested in sustainable land use with particular emphasis on rural livelihoods, nature-based solutions, decision-making for conservation practices and climate adaptation, and developing effective decision support tools.
+I am a broadly trained geography student with specialization in spatial technologies and data-driven modeling techniques. I am generally interested in sustainable land use with particular emphasis on ecosystem service dependency, cultural landscape dynamics, nature-based solutions, decision-making for conservation practices and climate adaptation, and developing effective decision support tools.
 
 I explore questions such as:
 
