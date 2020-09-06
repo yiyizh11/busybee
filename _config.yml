@@ -83,7 +83,7 @@ author:
   name             : "Yiyi Zhang"
   avatar           : "profile.png"
   bio              : "PhD student at McGill University"
-  location         : "Location"
+  #location         : "Location"
   employer         :
   #pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   #googlescholar    : "http://yourfullgooglescholarurl.com"
@@ -94,15 +94,15 @@ author:
   codepen          :
   dribbble         :
   flickr           :
-  facebook         :
+  facebook         : "https://www.facebook.com/yiyi.zhang.507464/"
   foursquare       :
-  github           : "academicpages"
+  #github           : "academicpages"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :
+  linkedin         : "https://www.linkedin.com/in/yiyi-zhang-1b980b187/"
   orcid            : "https://orcid.org/0000-0001-5052-8119"
   pinterest        :
   soundcloud       :
