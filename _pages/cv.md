@@ -50,11 +50,9 @@ Volunteer
 
 Grants & Awards
 ======
-- 2019. Third Place Award in Graduate Poster Presentation at the WLDAAG 2019, Cedar Falls, IA.
-- 2019. Graduate Research Award. College of Social and Behavioral Science. $205. Cedar Falls, IA.
-- 2016. Third Place Award in the 14th SUPERMAP CUP National College GIS Contest. China.
-- 2015-2016. Multidimensional Research on the Construction of Integrated Community. Provincial
-- Undergraduate Research Training Program. Co-Investigator. Provincial Excellence Award. $793. Fujian, China.
+* 2019. Graduate Research Award. College of Social and Behavioral Science. $205. Cedar Falls, IA.
+* 2016. Third Place Award in the 14th SUPERMAP CUP National College GIS Contest. China.
+* 2015-2016. Multidimensional Research on the Construction of Integrated Community. Provincial Undergraduate Research Training Program. Co-Investigator. Provincial Excellence Award. $793. Fujian, China.
 
 Service
 ======
