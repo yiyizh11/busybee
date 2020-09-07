@@ -11,21 +11,30 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* M.S. in Geography, University of Northern Iowa, 2019
+* B.S. in Human Geography and Urban-rural Planning, Fuzhou University, 2017
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* April-August 2020: Consultant
+  * WWF China
+  * Duties:
+  - Developing protected area management standards and ranger apps
+  - Preparing consultation meeting materials (drafts, brochure, slides, maps), facilitate meetings, and report project progress
+  - Developing and maintaining project documentation and database
+ 
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Aug 2018 - Dec 2019: Teaching Assistant
+  * University of Northern Iowa - Geography Department
+  - Assisted in courses: Remote Sensing of Environment, Global Positioning Systems, World Geography
+  - Supported academic training and field activities for NSF Research Experiences for Undergraduates in Hyperspectral Imaging
+  - Instructed lab sessions and
+  
+* Aug 2018 - Dec 2019: Teaching Assistant
+  * University of Northern Iowa - Geography Department
+  - Assisted in courses: Remote Sensing of Environment, Global Positioning Systems, World Geography
+  - Supported academic training and field activities for NSF Research Experiences for Undergraduates in Hyperspectral Imaging
+  - Instructed lab sessions and
   
 Skills
 ======
@@ -56,4 +65,4 @@ Teaching
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Reviewed manuscripts submitted to International Journal of Geospaital and Environment Research and Asian Journal of Agricultural Extension, Economics & Sociology.
