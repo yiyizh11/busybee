@@ -50,11 +50,11 @@ Volunteer
 
 Grants & Awards
 ======
-2019. Graduate Research Award. College of Social and Behavioral Science. $205. Cedar Falls, IA.
+- Graduate Research Award. College of Social and Behavioral Science. $205. Cedar Falls, IA, 2019. 
 
-2016. Third Place Award in the 14th SUPERMAP CUP National College GIS Contest. China.
+- Third Place Award in the 14th SUPERMAP CUP National College GIS Contest. China, 2016
 
-2015-2016. Multidimensional Research on the Construction of Integrated Community. Provincial Undergraduate Research Training Program. Co-Investigator. Provincial Excellence Award. $793. Fujian, China.
+- Multidimensional Research on the Construction of Integrated Community. Provincial Undergraduate Research Training Program. Co-Investigator. Provincial Excellence Award. $793. Fujian, China. 2015-2016. 
 
 Service
 ======
