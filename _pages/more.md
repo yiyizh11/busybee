@@ -1,5 +1,4 @@
 ---
-title: "<h1>More</h1>"
 permalink: /more/
 author_profile: true
 redirect_from: 
