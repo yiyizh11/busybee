@@ -42,7 +42,7 @@ Research & Field Experience
   
 Volunteer
 ======
-* Feb 2019-Present, World Fish Migration Foundation
+* Feb 2020-Present, World Fish Migration Foundation
   - Developing the network of river dolphin protection with Chinese environmental organizations
   - Participating in internal meetings and facilitating international meetings
   - Providing GIS support (data join, cleaning, digitization, georeferencing)
@@ -51,7 +51,7 @@ Volunteer
 Grants & Awards
 ======
 - Graduate Research Award. College of Social and Behavioral Science. $205. Cedar Falls, IA, 2019. 
-- Third Place Award in the 14th SUPERMAP CUP National College GIS Contest. China, 2016
+- Third Place Award in the 14th SUPERMAP CUP National College GIS Contest. China, 2016.
 - Multidimensional Research on the Construction of Integrated Community. Provincial Undergraduate Research Training Program. Co-Investigator. Provincial Excellence Award. $793. Fujian, China. 2015-2016. 
 
 Service
