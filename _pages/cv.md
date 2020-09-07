@@ -16,19 +16,16 @@ Education
 
 Work experience
 ======
-* April-August 2020: Consultant
-  * WWF China
-  * Duties:
+* April-August 2020: Consultant at WWF China
   - Developing protected area management standards and ranger apps
   - Preparing consultation meeting materials (drafts, brochure, slides, maps), facilitate meetings, and report project progress
   - Developing and maintaining project documentation and database
  
 
-* Aug 2018 - Dec 2019: Teaching Assistant
-  * University of Northern Iowa - Geography Department
-  - Assisted in courses: Remote Sensing of Environment, Global Positioning Systems, World Geography
-  - Supported academic training and field activities for NSF Research Experiences for Undergraduates in Hyperspectral Imaging
-  - Instructed lab sessions and
+* Aug 2018 - Dec 2019: Teaching Assistant at Geography Department, University of Northern Iowa 
+    - Assisted in courses: Remote Sensing of Environment, Global Positioning Systems, World Geography
+    - Supported academic training and field activities for NSF Research Experiences for Undergraduates in Hyperspectral Imaging
+    - Instructed lab sessions and
   
 * Aug 2018 - Dec 2019: Teaching Assistant
   * University of Northern Iowa - Geography Department
