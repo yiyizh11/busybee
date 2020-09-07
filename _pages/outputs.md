@@ -1,8 +1,8 @@
 ---
-permalink: /more/
+permalink: /outputs/
 author_profile: true
 redirect_from: 
-  - /more
+  - /outputs
 ---
 
 <h2><b>Publications</b></h2>
