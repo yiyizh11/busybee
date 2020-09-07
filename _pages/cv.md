@@ -16,50 +16,32 @@ Education
 
 Work experience
 ======
-* April-August 2020: Consultant at WWF China
+* April-August 2020: Consultant, WWF China
   - Developing protected area management standards and ranger apps
   - Preparing consultation meeting materials (drafts, brochure, slides, maps), facilitate meetings, and report project progress
   - Developing and maintaining project documentation and database
- 
 
-* Aug 2018 - Dec 2019: Teaching Assistant at Geography Department, University of Northern Iowa 
-    - Assisted in courses: Remote Sensing of Environment, Global Positioning Systems, World Geography
-    - Supported academic training and field activities for NSF Research Experiences for Undergraduates in Hyperspectral Imaging
-    - Instructed lab sessions and
-  
-* Aug 2018 - Dec 2019: Teaching Assistant
-  * University of Northern Iowa - Geography Department
+* Aug 2018 - Dec 2019: Teaching Assistant, Geography Department, University of Northern Iowa 
   - Assisted in courses: Remote Sensing of Environment, Global Positioning Systems, World Geography
   - Supported academic training and field activities for NSF Research Experiences for Undergraduates in Hyperspectral Imaging
-  - Instructed lab sessions and
+  - Instructed lab sessions and student term projects
   
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Summer 2019: Research Assistant, GeoTREE Center, University of Northern Iowa
+  - Configured GPS receiver and collected field data
+  - Tested and edited water quality modeling script tools
 
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+* Jan 2018 - May 2019: Research Assistant, Geography Department, University of Northern Iowa
+  - Collected various remote sensing products and performed pre-processiing
+  - Validated Remote Senisng algorithms
+  - Conducted and reported literature review
   
-Talks
+Volunteer
 ======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
+* Feb 2019-Present
+- Developing the network of river dolphin protection with Chinese environmental organizations
+- Participating in internal meetings and facilitating international meetings and provide GIS support
+- Assisting in moderating a live conference (Global Swimways Webinar Marathon)
+
+Service
 ======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Reviewed manuscripts submitted to International Journal of Geospaital and Environment Research and Asian Journal of Agricultural Extension, Economics & Sociology.
+* Reviewed manuscripts submitted to <u>International Journal of Geospaital and Environment Research</u> and Asian Journal of Agricultural Extension, Economics & Sociology.
