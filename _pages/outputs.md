@@ -14,15 +14,13 @@ Fan, S. S., Zhang, Y. Y., Wu.P. Q., Wang, W. L ., Du, Y. & Shui, W. (2017). Eval
 
 Wu, P. Q., Zhang, Y. Y., Zhang, M. He, Q. L. & Wu, X. (2016). Research on All-age Community Site Selection Based on GIS: A Case Study of Fuzhou Downtown Zone. Journal of Fuzhou University (Natural Science Edition), 44(5), 668-672. [TEXT](http://www.cqvip.com/QK/92302X/201605/670756723.html)
 
-<h2><b>Presentations</b></h2>
-Poster, 2019 AGU Fall Meeting, San Francisco, CA Dec. 2019
-Title: [Mapping Vulnerability of Farming Communities toWinter Storms in Iowa](https://doi.org/10.1002/essoar.10501597.1)
+<h2><b>Ps</b></h2>
+Poster, 2019 AGU Fall Meeting, San Francisco, CA Dec. 2019<br /> 
+Title: Mapping Vulnerability of Farming Communities to Winter Storms in Iowa [VIEW](https://doi.org/10.1002/essoar.10501597.1)
 
-Poster (Third Place Award), 2019 WLDAAG, Cedar Falls, IA Oct. 2019
-Title: [A Conceptual Agent-based Model of Farming Households’ Adaptation toWinter Storms](https://drive.google.com/file/d/1h1iy317LyOJBVHIqFopDNnJATNxYMVeS/view)
+Poster (Third Place Award), 2019 WLDAAG, Cedar Falls, IA Oct. 2019<br /> 
+Title: A Conceptual Agent-based Model of Farming Households’ Adaptation to Winter Storms [VIEW](https://drive.google.com/file/d/1h1iy317LyOJBVHIqFopDNnJATNxYMVeS/view)
 
-Poster, 2018 AAG Annual Meeting, New Orleans, LA Apr. 2018
-Title: [Impact of Tibetan household livelihood capital on tourism participation level: Acase of Jiaju Tibetan
-Village in Garze](https://aag.secure-abstracts.com/AAG%20Annual%20Meeting%202018/abstracts-gallery/16347)
+Poster, 2018 AAG Annual Meeting, New Orleans, LA Apr. 2018<br /> 
+Title: Impact of Tibetan household livelihood capital on tourism participation level: Acase of Jiaju Tibetan Village in Garze [VIEW](https://aag.secure-abstracts.com/AAG%20Annual%20Meeting%202018/abstracts-gallery/16347)
 
-<h2><b>Thematic maps</b></h2>
