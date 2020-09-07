@@ -12,9 +12,11 @@ redirect_from:
 Education
 ======
 * M.A. in Geography, University of Northern Iowa, 2019
+  - Thesis:[Evaluating Livelihood Vulnerability of Farming Communities to Winter Storms in Iowa](https://scholarworks.uni.edu/etd/1000/)
 * B.S. in Human Geography and Urban-rural Planning, Fuzhou University, 2017
+  - Thesis: Impact of Tibetan Household Livelihood Capital on Tourism Participation Level: A Case of Jiaju Tibetan Village in Garze
 
-Work experience
+Research & Field Experience
 ======
 * April-August 2020: Consultant, WWF China
   - Conducted research on protected area management standards, adapted the criteria and drafted the manual
@@ -45,6 +47,14 @@ Volunteer
   - Participating in internal meetings and facilitating international meetings
   - Providing GIS support (data join, cleaning, digitization, georeferencing)
   - Moderating the chat during a live conference (Global Swimways Webinar Marathon)
+
+Grants & Awards
+======
+- 2019. Third Place Award in Graduate Poster Presentation at the WLDAAG 2019, Cedar Falls, IA.
+- 2019. Graduate Research Award. College of Social and Behavioral Science. $205. Cedar Falls, IA.
+- 2016. Third Place Award in the 14th SUPERMAP CUP National College GIS Contest. China.
+- 2015-2016. Multidimensional Research on the Construction of Integrated Community. Provincial
+- Undergraduate Research Training Program. Co-Investigator. Provincial Excellence Award. $793. Fujian, China.
 
 Service
 ======
