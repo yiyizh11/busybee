@@ -11,7 +11,7 @@ redirect_from:
 
 Education
 ======
-* M.S. in Geography, University of Northern Iowa, 2019
+* M.A. in Geography, University of Northern Iowa, 2019
 * B.S. in Human Geography and Urban-rural Planning, Fuzhou University, 2017
 
 Work experience
@@ -21,6 +21,7 @@ Work experience
   - Provided consultation for ranger app development
   - Prepared consultation meeting materials (drafts, brochure, slides, maps), facilitated meetings, and reported project progress
   - Translated the Living Planet Index for Migratory Fish
+  - Prepared environmental education resources and conducted lessons in the classroom
   - Assisted in developing and maintaining project documentation and database 
 
 * Aug 2018-Dec 2019: Teaching Assistant, Geography Department, University of Northern Iowa 
