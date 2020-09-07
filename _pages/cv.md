@@ -12,7 +12,7 @@ redirect_from:
 Education
 ======
 * M.A. in Geography, University of Northern Iowa, 2019
-  - Thesis: [Evaluating Livelihood Vulnerability of Farming Communities to Winter Storms in Iowa](https://scholarworks.uni.edu/etd/1000/)
+  - Thesis: Evaluating Livelihood Vulnerability of Farming Communities to Winter Storms in Iowa. [FULL TEXT](https://scholarworks.uni.edu/etd/1000/)
 * B.S. in Human Geography and Urban-rural Planning, Fuzhou University, 2017
   - Thesis: Impact of Tibetan Household Livelihood Capital on Tourism Participation Level: A Case of Jiaju Tibetan Village in Garze
 
