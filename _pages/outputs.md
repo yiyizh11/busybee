@@ -14,7 +14,7 @@ Fan, S. S., Zhang, Y. Y., Wu.P. Q., Wang, W. L ., Du, Y. & Shui, W. (2017). Eval
 
 Wu, P. Q., Zhang, Y. Y., Zhang, M. He, Q. L. & Wu, X. (2016). Research on All-age Community Site Selection Based on GIS: A Case Study of Fuzhou Downtown Zone. Journal of Fuzhou University (Natural Science Edition), 44(5), 668-672. [TEXT](http://www.cqvip.com/QK/92302X/201605/670756723.html)
 
-<h2><b>Conferencesb></h2>
+<h2><b>Conferences</b></h2>
 Poster, 2019 AGU Fall Meeting, San Francisco, CA Dec. 2019<br /> 
 Title: Mapping Vulnerability of Farming Communities to Winter Storms in Iowa. [VIEW](https://doi.org/10.1002/essoar.10501597.1)
 
