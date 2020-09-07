@@ -17,10 +17,11 @@ Education
 Work experience
 ======
 * April-August 2020: Consultant, WWF China
-  - Conducting research on protected area management standards, adapting indices and drafting the manual
-  - Providing consultation for ranger app development
-  - Preparing consultation meeting materials (drafts, brochure, slides, maps), facilitate meetings, and reporting project progress
-  - Developing and maintaining project documentation and database
+  - Conducted research on protected area management standards, adapted the criteria and drafted the manual
+  - Provided consultation for ranger app development
+  - Prepared consultation meeting materials (drafts, brochure, slides, maps), facilitated meetings, and reported project progress
+  - Translated the Living Planet Index for Migratory Fish
+  - Assisted in developing and maintaining project documentation and database 
 
 * Aug 2018-Dec 2019: Teaching Assistant, Geography Department, University of Northern Iowa 
   - Assisted in courses: Remote Sensing of Environment, Global Positioning Systems, World Geography
@@ -40,8 +41,9 @@ Volunteer
 ======
 * Feb 2019-Present, World Fish Migration Foundation
   - Developing the network of river dolphin protection with Chinese environmental organizations
-  - Participating in internal meetings and facilitating international meetings and provide GIS support
-  - Assisting in moderating a live conference (Global Swimways Webinar Marathon)
+  - Participating in internal meetings and facilitating international meetings
+  - Providing GIS support (data join, cleaning, digitization, georeferencing)
+  - Moderating the chat during a live conference (Global Swimways Webinar Marathon)
 
 Service
 ======
