@@ -1,4 +1,5 @@
 ---
+title: "More"
 permalink: /more/
 author_profile: true
 redirect_from: 
