@@ -86,8 +86,8 @@ author:
   #location         : "Location"
   employer         :
   #pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  email            : "yiyi.zhang2@mail.mcgill.ca"
   googlescholar    : "https://scholar.google.com/citations?hl=en&user=l3sKFikAAAAJ"
+  email            : "yiyi.zhang2@mail.mcgill.ca"
   #researchgate     : "https://www.researchgate.net/profile/Yiyi_Zhang16" 
   uri              :
   bitbucket        :
@@ -102,14 +102,14 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "yiyi-zhang-1b980b187/"
+  #linkedin         : "yiyi-zhang-1b980b187/"
   #orcid            : "https://orcid.org/0000-0001-5052-8119"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "weare311"
+  #twitter          : "weare311"
   vine             :
   weibo            :
   xing             :
