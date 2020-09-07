@@ -1,4 +1,5 @@
 ---
+title: "<h1>Outputs</h1>"
 permalink: /outputs/
 author_profile: true
 redirect_from: 
