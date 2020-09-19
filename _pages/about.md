@@ -16,7 +16,7 @@ I explore questions such as:
 
 - What are the benifits of ecosystems and how people perceive and manage natural resources?
 
-- What are the spatial flow paths and dynamics of ecosystem services?
+- What are the spatial flow paths and dynamics of ecosystem services and how to characterize?
 
 - What are the values of nature-based solutions to global challenges?
 
