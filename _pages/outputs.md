@@ -18,7 +18,7 @@ Wu, P. Q., Zhang, Y. Y., Zhang, M. He, Q. L. & Wu, X. (2016). Research on All-ag
 Poster, 2019 AGU Fall Meeting, San Francisco, CA <br /> 
 Title: Mapping Vulnerability of Farming Communities to Winter Storms in Iowa. [VIEW](https://doi.org/10.1002/essoar.10501597.1)
 
-Poster (Third Place Award), 2019 WLDAAG, Cedar Falls, IA <br /> 
+Poster, 2019 WLDAAG, Cedar Falls, IA <br /> 
 Title: A Conceptual Agent-based Model of Farming Households' Adaptation to Winter Storms. [VIEW](https://drive.google.com/file/d/1h1iy317LyOJBVHIqFopDNnJATNxYMVeS/view)
 
 Poster, 2018 AAG Annual Meeting, New Orleans, LA <br /> 
