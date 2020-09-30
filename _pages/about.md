@@ -10,10 +10,5 @@ redirect_from:
 
 Welcome! 
 
-I am a broadly trained geography student with specialization in spatial technologies and data-driven modeling techniques. I am generally interested in sustainable land use with particular emphasis on ecosystem service dependency, cultural landscape dynamics, nature-based solutions to global challenges, and decision-making for conservation practices and climate adaptation.
+I am a broadly trained geography student who draws from multiple disciplinary perspectives and applies spatial technologies and data-driven modeling techniques to the study of sustainability. I pursue my interests in rural livelihoods, social-ecological interactions, climate adaptation across multiple scales and decision-making settings (e.g. household livelihood strategies, land management decisions). My current research focus is on developing models that can capture important aspects of distant interactions and the associated impacts on human well-being.
 
-I explore questions such as:
-
-- What are the benifits of ecosystems and how people perceive and manage natural resources?
-- What are the ecosystem-related shifts in customer preferences and how they impact damand for key products and services?
-- What practices and policies would work to make production more sustainable and where to start, how, by who and when?
