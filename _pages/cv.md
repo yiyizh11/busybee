@@ -50,11 +50,8 @@ Volunteer
 
 Grants & Awards
 ======
+- First Place in Outstanding Master's Thesis. Graduate College at the University of Northern Iowa. 2020.
 - Graduate Research Award. College of Social and Behavioral Science. Cedar Falls, IA. 2019. 
 - Third Place Award in Graduate Poster Presentation at the WLDAAG 2019. Cedar Falls, IA. 2019.
 - Third Place Award in the 14th SUPERMAP CUP National College GIS Contest. China. 2016.
-- Multidimensional Research on the Construction of Integrated Community. Funded by Provincial Undergraduate Research Training Program. Co-Investigator. Provincial Excellence Award. Fujian, China. 2015-2016. 
-
-Service
-======
-* Reviewed manuscripts submitted to <u>International Journal of Geospaital and Environment Research</u> and <u>Asian Journal of Agricultural Extension, Economics & Sociology</u>.
+- Multidimensional Research on the Construction of Integrated Community. Funded by Provincial Undergraduate Research Training Program. Member. Provincial Excellence Award. Fujian, China. 2015-2016. 
