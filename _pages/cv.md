@@ -50,7 +50,7 @@ Volunteer
 
 Grants & Awards
 ======
-- First Place in Outstanding Master's Thesis. Graduate College at the University of Northern Iowa. 2020.
+- First Place of the Outstanding Master’s Thesis Award. Graduate College at the University of Northern Iowa. 2020.
 - Graduate Research Award. College of Social and Behavioral Science. Cedar Falls, IA. 2019. 
 - Third Place Award in Graduate Poster Presentation at the WLDAAG 2019. Cedar Falls, IA. 2019.
 - Third Place Award in the 14th SUPERMAP CUP National College GIS Contest. China. 2016.
