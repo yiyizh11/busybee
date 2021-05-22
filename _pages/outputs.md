@@ -8,11 +8,13 @@ redirect_from:
 
 <h2><b>Publications</b></h2>
 
-Zhang, Yiyi (2020) "A Conceptual Agent-Based Model of Farming Households' Vulnerability to Winter Storms," International Journal of Geospatial and Environmental Research: Vol. 7 : No. 2 , Article 1. [TEXT](https://dc.uwm.edu/ijger/vol7/iss2/1/)
+Zhang, Y. Y., Liang, B. Q. (2021). Evaluating the Vulnerability of Farming Communities to Winter Storms in Iowa. Environmental and Sustainability Indicators. In press.
+
+Zhang, Y. Y. (2020). A Conceptual Agent-Based Model of Farming Households' Vulnerability to Winter Storms. International Journal of Geospatial and Environmental Research: Vol. 7 : No. 2 , Article 1. [TEXT](https://dc.uwm.edu/ijger/vol7/iss2/1/)
 
 Fan, S. S., Zhang, Y. Y., Wu.P. Q., Wang, W. L ., Du, Y. & Shui, W. (2017). Evaluation and Examination of the Granary Model in the Business Environment of Taiwan Fruit Industry, Journal of Subtropical Resources and Environment, 11(4), 53-61. [TEXT](http://www.cqvip.com/QK/83207X/201604/671315531.html) (in Chinese)
 
-Wu, P. Q., Zhang, Y. Y., Zhang, M. He, Q. L. & Wu, X. (2016). Research on All-age Community Site Selection Based on GIS: A Case Study of Fuzhou Downtown Zone. Journal of Fuzhou University (Natural Science Edition), 44(5), 668-672. [TEXT](http://www.cqvip.com/QK/92302X/201605/670756723.html) (in Chinese)
+Wu, P. Q., Zhang, Y. Y., Zhang, M., He, Q. L., & Wu, X. (2016). Research on All-age Community Site Selection Based on GIS: A Case Study of Fuzhou Downtown Zone. Journal of Fuzhou University (Natural Science Edition), 44(5), 668-672. [TEXT](http://www.cqvip.com/QK/92302X/201605/670756723.html) (in Chinese)
   
 <h2><b>Conferences</b></h2>
 Poster, 2019 AGU Fall Meeting, San Francisco, CA <br /> 
