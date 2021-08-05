@@ -11,6 +11,6 @@ redirect_from:
 
 <h2><b>Curriculum</b></h2>
 Introducing world geography, cartography, and GPS to elementary students
-![layout1](/_pages/cur1.jpg)
+![layout1](https://github.com/yiyizh11/busybee/blob/master/_pages/cur1.jpg?raw=true)
 
 
