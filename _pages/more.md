@@ -11,6 +11,6 @@ redirect_from:
 
 <h2><b>Curriculum</b></h2>
 Introducing world geography, cartography, and GPS to elementary students
-![layout1](https://github.com/yiyizh11/Agent-based-models/blob/main/images/layout-diff.png)
+![layout1](/cur1.jpg)
 
 
