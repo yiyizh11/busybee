@@ -11,5 +11,5 @@ redirect_from:
 
 <h2><b>Curriculum</b></h2>
 Introducing world geography, cartography, and GPS to elementary students and 17k audience through a live camera at Changjiang Daily
-![curriculum1](https://github.com/yiyizh11/busybee/images/cur1.png)
-![curriculum2](https://github.com/yiyizh11/busybee/images/cur2.png)
+![layout1](https://github.com/yiyizh11/busybee/images/cur1.png)
+![layout2](https://github.com/yiyizh11/busybee/images/cur2.png)
