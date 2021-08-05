@@ -55,3 +55,8 @@ Grants & Awards
 - Third Place Award in Graduate Poster Presentation at the WLDAAG 2019. Cedar Falls, IA. 2019.
 - Third Place Award in the 14th SUPERMAP CUP National College GIS Contest. China. 2016.
 - Multidimensional Research on the Construction of Integrated Community. Funded by Provincial Undergraduate Research Training Program. Member. Provincial Excellence Award. Fujian, China. 2015-2016. 
+
+Certificates
+======
+- Santa Fe Institute: Introduction to Agent-Based Modeling
+- African Wildlife Foundation & Friends of Nature China: China-Africa Youth Conservation Workshop on the Post-2020 Global Biodiversity Framework
