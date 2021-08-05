@@ -8,9 +8,9 @@ redirect_from:
 
 <h2><b>Publications</b></h2>
 
-Zhang, Y. Y., Liang, B. Q. (2021). Evaluating the Vulnerability of Farming Communities to Winter Storms in Iowa. Environmental and Sustainability Indicators. In press.
+Zhang, Y., & Liang, B. (2021). Evaluating the vulnerability of farming communities to winter storms in Iowa. Environmental and Sustainability Indicators, 100126. [TEXT](https://www.sciencedirect.com/science/article/pii/S2665972721000271)
 
-Zhang, Y. Y. (2020). A Conceptual Agent-Based Model of Farming Households' Vulnerability to Winter Storms. International Journal of Geospatial and Environmental Research: Vol. 7 : No. 2 , Article 1. [TEXT](https://dc.uwm.edu/ijger/vol7/iss2/1/)
+Zhang, Y. (2020). A Conceptual Agent-Based Model of Farming Households’ Vulnerability to Winter Storms. International Journal of Geospatial and Environmental Research, 7(2), 1. [TEXT](https://dc.uwm.edu/ijger/vol7/iss2/1/)
 
 Fan, S. S., Zhang, Y. Y., Wu.P. Q., Wang, W. L ., Du, Y. & Shui, W. (2017). Evaluation and Examination of the Granary Model in the Business Environment of Taiwan Fruit Industry, Journal of Subtropical Resources and Environment, 11(4), 53-61. [TEXT](http://www.cqvip.com/QK/83207X/201604/671315531.html) (in Chinese)
 
