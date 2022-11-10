@@ -8,6 +8,7 @@ redirect_from:
 
 <h2><b>Story Map</b></h2>
 [Following the Yangtze: A Journey Around the Riverside Cities](https://storymaps.arcgis.com/stories/961e284aede3476995c7c3201f79142b)
+[Endangered and extinct animals at the Redpath Museum](https://storymaps.arcgis.com/stories/030a1d7ba9c94f549b0f5d8132a1d254)
 
 <h2><b>Curriculum</b></h2>
 Introducing world geography, cartography, and GPS to elementary students
