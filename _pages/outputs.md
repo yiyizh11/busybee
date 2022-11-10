@@ -25,7 +25,7 @@ Wu, P. Q., Zhang, Y. Y., Zhang, M., He, Q. L., & Wu, X. (2016). Research on All-
 Oral,  ESA CSEE 2022, Montreal, QC <br /> 
 Title: Quantifying ecosystem service flows from agricultural landscapes to people: a serviceshed approach. [VIEW](https://cdmcd.co/zYByY6)
 
-Oral, ESA 2021, Virtural <br /> 
+Oral, ESA 2021, Virtual <br /> 
 Title: Linking landscapes to people: Defining and mapping service-sheds for multiple ecosystem services. [VIEW](https://cdmcd.co/LdDwPL)
 
 Poster, 2019 AGU Fall Meeting, San Francisco, CA <br /> 
