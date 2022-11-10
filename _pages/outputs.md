@@ -8,9 +8,9 @@ redirect_from:
 
 <h2><b>Publications</b></h2>
 
-Wu, C., Shui, W., Huang, Z., Wang, C., Wu, Y., Xue, C., Huang, Y., Zhang, Y & Zheng, D. (2022). Urban heat vulnerability: A dynamic assessment using multi-source data in coastal metropolis of Southeast China. Frontiers in Public Health, 10.[TEXT](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9632749/)
+Wu, C., Shui, W., Huang, Z., Wang, C., Wu, Y., Xue, C., Huang, Y., Zhang, Y & Zheng, D. (2022). Urban heat vulnerability: A dynamic assessment using multi-source data in coastal metropolis of Southeast China. Frontiers in Public Health, 10. [TEXT](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9632749/)
 
-Shui, W., Zhang, Y., Wang, X., Liu, Y., Wang, Q., Duan, F., Wu, C & Shui, W. (2022). Does Tibetan Household Livelihood Capital Enhance Tourism Participation Sustainability? Evidence from China’s Jiaju Tibetan Village. International Journal of Environmental Research and Public Health, 19(15), 9183.[TEXT](https://www.mdpi.com/1660-4601/19/15/9183)
+Shui, W., Zhang, Y., Wang, X., Liu, Y., Wang, Q., Duan, F., Wu, C & Shui, W. (2022). Does Tibetan Household Livelihood Capital Enhance Tourism Participation Sustainability? Evidence from China’s Jiaju Tibetan Village. International Journal of Environmental Research and Public Health, 19(15), 9183. [TEXT](https://www.mdpi.com/1660-4601/19/15/9183)
 
 Zhang, Y., & Liang, B. (2021). Evaluating the vulnerability of farming communities to winter storms in Iowa. Environmental and Sustainability Indicators, 100126. [TEXT](https://www.sciencedirect.com/science/article/pii/S2665972721000271)
 
