@@ -8,6 +8,10 @@ redirect_from:
 
 <h2><b>Publications</b></h2>
 
+Wu, C., Shui, W., Huang, Z., Wang, C., Wu, Y., Xue, C., ... & Zheng, D. (2022). Urban heat vulnerability: A dynamic assessment using multi-source data in coastal metropolis of Southeast China. Frontiers in Public Health, 10.[TEXT](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9632749/)
+
+Shui, W., Zhang, Y., Wang, X., Liu, Y., Wang, Q., Duan, F., ... & Shui, W. (2022). Does Tibetan Household Livelihood Capital Enhance Tourism Participation Sustainability? Evidence from China’s Jiaju Tibetan Village. International Journal of Environmental Research and Public Health, 19(15), 9183.[TEXT]([https://www.sciencedirect.com/science/article/pii/S2665972721000271](https://www.mdpi.com/1660-4601/19/15/9183))
+
 Zhang, Y., & Liang, B. (2021). Evaluating the vulnerability of farming communities to winter storms in Iowa. Environmental and Sustainability Indicators, 100126. [TEXT](https://www.sciencedirect.com/science/article/pii/S2665972721000271)
 
 Zhang, Y. (2020). A Conceptual Agent-Based Model of Farming Households’ Vulnerability to Winter Storms. International Journal of Geospatial and Environmental Research, 7(2), 1. [TEXT](https://dc.uwm.edu/ijger/vol7/iss2/1/)
