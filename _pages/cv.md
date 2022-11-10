@@ -58,5 +58,6 @@ Grants & Awards
 
 Certificates
 ======
+- NASA ARSET Program: Applications of Remote Sensing-Based  Evapotranspiration Data Products for Agricultural and Water Resource Management 
 - Santa Fe Institute: Introduction to Agent-Based Modeling
 - African Wildlife Foundation & Friends of Nature China: China-Africa Youth Conservation Workshop on the Post-2020 Global Biodiversity Framework
