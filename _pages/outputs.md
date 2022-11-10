@@ -25,7 +25,7 @@ Oral,  ESA CSEE 2022, Montreal, QC
 Title: Quantifying ecosystem service flows from agricultural landscapes to people: a serviceshed approach. [VIEW](https://www.eventscribe.net/2022/ESA/fsPopup.asp?Mode=presInfo&PresentationID=1105474)
 
 Oral, ESA 2021, Virtural
-Title: Linking landscapes to people: Defining and mapping service-sheds for multiple ecosystem services. [VIEW](https://cdmcd.co/LdDwPL))
+Title: Linking landscapes to people: Defining and mapping service-sheds for multiple ecosystem services. [VIEW](https://cdmcd.co/LdDwPL)
 
 Poster, 2019 AGU Fall Meeting, San Francisco, CA <br /> 
 Title: Mapping Vulnerability of Farming Communities to Winter Storms in Iowa. [VIEW](https://doi.org/10.1002/essoar.10501597.1)
