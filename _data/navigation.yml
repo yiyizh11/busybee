@@ -4,8 +4,11 @@ main:
   - title: "CV"
     url: /cv/
     
-  - title: "Outputs"
-    url: /outputs/   
+  - title: "Research"
+    url: /outputs/  
+ 
+  - title: "Teaching"
+    url: /teaching/
     
   - title: "More"
     url: /more/
