@@ -45,14 +45,6 @@ Research & Field Experience
   - Validated Remote Senisng algorithms
   - Conducted and reported literature review
   
-Volunteer
-======
-* Feb-Dec 2020, World Fish Migration Foundation
-  - Developing the network of river dolphin protection with Chinese environmental organizations
-  - Participating in internal meetings and facilitating international meetings
-  - Providing GIS support (data join, cleaning, digitization, preprocessing)
-  - Moderating the chat at a live conference (Global Swimways Webinar Marathon)
-
 Grants & Awards
 ======
 - Leong Fellowship. 2022-2024.
