@@ -1,5 +1,5 @@
 ---
-title: "Teaching"
+title: "Teaching & Mentoring"
 permalink: /teaching/
 author_profile: true
 redirect_from: 
@@ -7,11 +7,11 @@ redirect_from:
 ---
 
 <h2><b>McGill University</b></h2>
-* Guest Lecturer (Winter 2023) GEOG360 Analyzing Sustainability (Winter 2023)
+* Guest Lecturer (Winter 2023) GEOG360 Analyzing Sustainability
 * Teaching assistant
   - GEOG414 (Fall 2023) Advanced Geospatial Analysis
   - GEOG360 (Winter 2023) Analyzing Sustainability
-  - GEOG333 (Fall 2022)Introduction to Programming for Spatial Sciences
+  - GEOG333 (Fall 2022) Introduction to Programming for Spatial Sciences
   - GEOG314 (Winter 2022) Geospatial Analysis
   - GEOG201 (Fall 2021) Statistics and Spatial Analysis
 <h2><b>University of Northern Iowa</b></h2>
