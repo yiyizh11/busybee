@@ -32,10 +32,6 @@ Research & Field Experience
   - Prepared environmental education resources and conducted lessons in the classroom
   - Assisted in developing and maintaining project documentation and database 
 
-* Aug 2018-Dec 2019: Teaching Assistant, Geography Department, University of Northern Iowa 
-  - Supported academic training and field activities for NSF Research Experiences for Undergraduates in Hyperspectral Imaging
-  - Instructed lab sessions and student term projects
-  
 * Summer 2019: Research Assistant, GeoTREE Center, University of Northern Iowa
   - Configured GPS receiver and collected field data
   - Tested and edited water quality modeling script tools
