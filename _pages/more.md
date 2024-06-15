@@ -5,6 +5,18 @@ author_profile: true
 redirect_from: 
   - /more
 ---
+<h2><b>Leadership & Outreach</b></h2>
+* Aug 2021-Present, Co-Chair & Webmaster, Ecological Society of America Human Ecology 
+  - Managing and developing Section resources 
+  - Planning, coordinating and leading Section meetings
+  - Organizing sessions and events for the ESA Annual Meetings
+  - Producing newsletter and updating website contents and features
+* Aug 2021-2022, Volunteer, McGill Redpath Museum
+  - Supported education and outreach programs (e.g. Climate Change Artist in Residence, endangered species story map)
+* Feb-Dec 2020, Network specialist for aquatic species conservation, World Fish Migration Foundation
+  - Connected Chinese river dolphin protection organizations and facilitated collaboration and communication between international organizations
+  - Coordinated event planning and moderated international webinar sessions
+  - Provided GIS support
 
 <h2><b>Story Map</b></h2>
 [Following the Yangtze: A Journey Around the Riverside Cities](https://storymaps.arcgis.com/stories/961e284aede3476995c7c3201f79142b)
