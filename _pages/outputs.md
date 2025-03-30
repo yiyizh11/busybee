@@ -8,7 +8,7 @@ redirect_from:
 
 <h2><b>Publications</b></h2>
 
-Zhang, Y., Thierry, H., Cornejo, L., Parrott, L., Poulin, M., Sherren, K., ... & Robinson, B. (2025). Servicesheds connect people to the landscapes upon which they depend. People and Nature, 7(1), 112-126.[TEXT](https://besjournals.onlinelibrary.wiley.com/doi/full/10.1002/pan3.10762)
+Zhang, Y., Thierry, H., Cornejo, L., Parrott, L., Poulin, M., Sherren, K., ... & Robinson, B. (2025). Servicesheds connect people to the landscapes upon which they depend. People and Nature, 7(1), 112-126. [TEXT](https://besjournals.onlinelibrary.wiley.com/doi/full/10.1002/pan3.10762)
 
 Wu, C., Shui, W., Huang, Z., Wang, C., Wu, Y., Xue, C., Huang, Y., Zhang, Y & Zheng, D. (2022). Urban heat vulnerability: A dynamic assessment using multi-source data in coastal metropolis of Southeast China. Frontiers in Public Health, 10. [TEXT](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9632749/)
 
