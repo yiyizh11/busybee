@@ -11,6 +11,8 @@ redirect_from:
 
 Education
 ======
+* Ph.D in Geography, McGill University, 2025
+  - Thesis: Connecting People to the Landscapes Upon Which They Depend: Modeling Ecosystem Service Flows to Beneficiaries in Canada
 * M.A. in Geography, University of Northern Iowa, 2019
   - Thesis: Evaluating Livelihood Vulnerability of Farming Communities to Winter Storms in Iowa. [FULL TEXT](https://scholarworks.uni.edu/etd/1000/)
 * B.S. in Human Geography and Urban-rural Planning, Fuzhou University, 2017
