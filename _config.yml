@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Yiyi Zhang"
 title_separator          : "-"
 name                     : &name "Yiyi Zhang"
-description              : &description "Ph.D. student, Geography Department, McGill University"
+description              : &description "Postdoc, Land and Food Systems, The University of British Columbia"
 url                      : https://yiyizh11.github.io/busybee/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "yiyizh11.github.io"
@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Yiyi Zhang"
   avatar           : "profile.png"
-  bio              : "Ph.D. student, Geography Department, McGill University"
+  bio              : "Postdoc, Land and Food Systems, The University of British Columbia"
   #location         : "Location"
   employer         :
   #pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?hl=en&user=l3sKFikAAAAJ"
-  email            : "yiyi.zhang2@mail.mcgill.ca"
+  email            : "yiyi.zhang@ubc.ca"
   #researchgate     : "https://www.researchgate.net/profile/Yiyi_Zhang16" 
   uri              :
   bitbucket        :
