@@ -2,10 +2,9 @@
 main:  
     
   - title: "CV"
-    url: /cv/
-    
+    url: "{{ site.baseurl }}/cv/"
   - title: "Research"
-    url: /outputs/  
+    url: "{{ site.baseurl }}/outputs/"
  
   - title: "Teaching"
     url: /teaching/
