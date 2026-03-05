@@ -1,5 +1,5 @@
 ---
-title: "<h1>Outputs</h1>"
+title: "Outputs"
 permalink: /outputs/
 author_profile: true
 redirect_from: 
