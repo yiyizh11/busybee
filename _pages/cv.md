@@ -39,7 +39,7 @@ Research & Field Experience
   - Tested and edited water quality modeling script tools
 
 * Jan 2018-May 2019: Research Assistant, Geography Department, University of Northern Iowa
-  - Collected various remote sensing products and performed pre-processiing
+  - Collected and processed various remote sensing data
   - Validated Remote Senisng algorithms
   - Conducted and reported literature review
   
