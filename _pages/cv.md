@@ -20,7 +20,7 @@ Education
 
 Research & Field Experience
 ======
-* Jun - Present 2024: Research Affiliate Program, Agriculture and Agri-Food Canada
+* Jun 2024 - Feb 2025: Research Affiliate Program, Agriculture and Agri-Food Canada
   - Developing methods to map commodity flows
   
 * Sep - Dec 2022: Analyst, Statistics Canada
