@@ -10,7 +10,7 @@ redirect_from:
 
 Zhang, Y., Parrott, L., Robinson, B. (2026). Quantifying co-production in agricultural landscapes to advance ecosystem service flow accounts. Ecosystem Services, 79. [TEXT](https://www.sciencedirect.com/science/article/pii/S221204162600032X)
 
-Zhang, Y., Thierry, H., Cornejo, L., Parrott, L., Poulin, M., Sherren, K., ... & Robinson, B. (2025). Servicesheds connect people to the landscapes upon which they depend. People and Nature, 7(1), 112-126. [TEXT](https://besjournals.onlinelibrary.wiley.com/doi/full/10.1002/pan3.10762)
+Zhang, Y., Thierry, H., Cornejo, L., Parrott, L., Poulin, M., Sherren, K., Van Proosdij, D., Robinson, B. (2025). Servicesheds connect people to the landscapes upon which they depend. People and Nature, 7(1), 112-126. [TEXT](https://besjournals.onlinelibrary.wiley.com/doi/full/10.1002/pan3.10762)
 
 Wu, C., Shui, W., Huang, Z., Wang, C., Wu, Y., Xue, C., Huang, Y., Zhang, Y., Zheng, D. (2022). Urban heat vulnerability: A dynamic assessment using multi-source data in coastal metropolis of Southeast China. Frontiers in Public Health, 10. [TEXT](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9632749/)
 
@@ -25,7 +25,7 @@ Fan, S. S., Zhang, Y. Y., Wu.P. Q., Wang, W. L ., Du, Y., Shui, W. (2017). Evalu
 Wu, P. Q., Zhang, Y. Y., Zhang, M., He, Q. L., Wu, X. (2016). Research on All-age Community Site Selection Based on GIS: A Case Study of Fuzhou Downtown Zone. Journal of Fuzhou University (Natural Science Edition), 44(5), 668-672. [TEXT](http://www.cqvip.com/QK/92302X/201605/670756723.html) (in Chinese)
   
 <h2><b>Conferences</b></h2>
-PERCS Research Seminar, The University of British Columbia <br /> 
+PERCS Research Seminar, March 2026, The University of British Columbia <br /> 
 Title: Mapping social-ecological archetypes to guide restoration decisions. [VIEW](https://percs.landfood.ubc.ca/percs-research-seminar-march-2026/)
 
 Oral,  2024 Programme on Ecosystem Change and Society (PECS-III), Montreal, QC <br /> 
