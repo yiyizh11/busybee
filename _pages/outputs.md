@@ -8,7 +8,7 @@ redirect_from:
 
 <h2><b>Publications</b></h2>
 
-Zhang, Y., Parrott, L., Robinson, B. (2026). Quantifying co-production in agricultural landscapes to advance ecosystem service flow accounts. Ecosystem Services, 79. [TEXT]([https://besjournals.onlinelibrary.wiley.com/doi/full/10.1002/pan3.10762](https://www.sciencedirect.com/science/article/pii/S221204162600032X))
+Zhang, Y., Parrott, L., Robinson, B. (2026). Quantifying co-production in agricultural landscapes to advance ecosystem service flow accounts. Ecosystem Services, 79. [TEXT](https://besjournals.onlinelibrary.wiley.com/doi/full/10.1002/pan3.10762](https://www.sciencedirect.com/science/article/pii/S221204162600032X)
 
 Zhang, Y., Thierry, H., Cornejo, L., Parrott, L., Poulin, M., Sherren, K., ... & Robinson, B. (2025). Servicesheds connect people to the landscapes upon which they depend. People and Nature, 7(1), 112-126. [TEXT](https://besjournals.onlinelibrary.wiley.com/doi/full/10.1002/pan3.10762)
 
