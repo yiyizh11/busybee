@@ -7,22 +7,28 @@ redirect_from:
 ---
 
 <h2><b>Publications</b></h2>
+Zhang, Y., Parrott, L., Robinson, B. (2025). Quantifying co-production in agricultural landscapes to advance ecosystem service flow accounts. Ecosystem Services, 79. [TEXT]([https://besjournals.onlinelibrary.wiley.com/doi/full/10.1002/pan3.10762](https://www.sciencedirect.com/science/article/pii/S221204162600032X))
 
 Zhang, Y., Thierry, H., Cornejo, L., Parrott, L., Poulin, M., Sherren, K., ... & Robinson, B. (2025). Servicesheds connect people to the landscapes upon which they depend. People and Nature, 7(1), 112-126. [TEXT](https://besjournals.onlinelibrary.wiley.com/doi/full/10.1002/pan3.10762)
 
-Wu, C., Shui, W., Huang, Z., Wang, C., Wu, Y., Xue, C., Huang, Y., Zhang, Y & Zheng, D. (2022). Urban heat vulnerability: A dynamic assessment using multi-source data in coastal metropolis of Southeast China. Frontiers in Public Health, 10. [TEXT](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9632749/)
+Wu, C., Shui, W., Huang, Z., Wang, C., Wu, Y., Xue, C., Huang, Y., Zhang, Y., Zheng, D. (2022). Urban heat vulnerability: A dynamic assessment using multi-source data in coastal metropolis of Southeast China. Frontiers in Public Health, 10. [TEXT](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9632749/)
 
-Shui, W., Zhang, Y., Wang, X., Liu, Y., Wang, Q., Duan, F., Wu, C & Shui, W. (2022). Does Tibetan Household Livelihood Capital Enhance Tourism Participation Sustainability? Evidence from China’s Jiaju Tibetan Village. International Journal of Environmental Research and Public Health, 19(15), 9183. [TEXT](https://www.mdpi.com/1660-4601/19/15/9183)
+Shui, W., Zhang, Y., Wang, X., Liu, Y., Wang, Q., Duan, F., Wu, C., Shui, W. (2022). Does Tibetan Household Livelihood Capital Enhance Tourism Participation Sustainability? Evidence from China’s Jiaju Tibetan Village. International Journal of Environmental Research and Public Health, 19(15), 9183. [TEXT](https://www.mdpi.com/1660-4601/19/15/9183)
 
-Zhang, Y., & Liang, B. (2021). Evaluating the vulnerability of farming communities to winter storms in Iowa. Environmental and Sustainability Indicators, 100126. [TEXT](https://www.sciencedirect.com/science/article/pii/S2665972721000271)
+Zhang, Y., Liang, B. (2021). Evaluating the vulnerability of farming communities to winter storms in Iowa. Environmental and Sustainability Indicators, 100126. [TEXT](https://www.sciencedirect.com/science/article/pii/S2665972721000271)
 
 Zhang, Y. (2020). A Conceptual Agent-Based Model of Farming Households’ Vulnerability to Winter Storms. International Journal of Geospatial and Environmental Research, 7(2), 1. [TEXT](https://dc.uwm.edu/ijger/vol7/iss2/1/)
 
-Fan, S. S., Zhang, Y. Y., Wu.P. Q., Wang, W. L ., Du, Y. & Shui, W. (2017). Evaluation and Examination of the Granary Model in the Business Environment of Taiwan Fruit Industry, Journal of Subtropical Resources and Environment, 11(4), 53-61. [TEXT](http://www.cqvip.com/QK/83207X/201604/671315531.html) (in Chinese)
+Fan, S. S., Zhang, Y. Y., Wu.P. Q., Wang, W. L ., Du, Y., Shui, W. (2017). Evaluation and Examination of the Granary Model in the Business Environment of Taiwan Fruit Industry, Journal of Subtropical Resources and Environment, 11(4), 53-61. [TEXT](http://www.cqvip.com/QK/83207X/201604/671315531.html) (in Chinese)
 
-Wu, P. Q., Zhang, Y. Y., Zhang, M., He, Q. L., & Wu, X. (2016). Research on All-age Community Site Selection Based on GIS: A Case Study of Fuzhou Downtown Zone. Journal of Fuzhou University (Natural Science Edition), 44(5), 668-672. [TEXT](http://www.cqvip.com/QK/92302X/201605/670756723.html) (in Chinese)
+Wu, P. Q., Zhang, Y. Y., Zhang, M., He, Q. L., Wu, X. (2016). Research on All-age Community Site Selection Based on GIS: A Case Study of Fuzhou Downtown Zone. Journal of Fuzhou University (Natural Science Edition), 44(5), 668-672. [TEXT](http://www.cqvip.com/QK/92302X/201605/670756723.html) (in Chinese)
   
 <h2><b>Conferences</b></h2>
+PERCS Research Seminar, The University of British Columbia <br /> 
+Title: Mapping social-ecological archetypes to guide restoration decisions. [VIEW](https://percs.landfood.ubc.ca/percs-research-seminar-march-2026/)
+
+Oral,  2024 Programme on Ecosystem Change and Society (PECS-III), Montreal, QC <br /> 
+Title: Quantifying ecosystem services under future climate and conservation agriculture
 
 Oral,  ESA CSEE 2022, Montreal, QC <br /> 
 Title: Quantifying ecosystem service flows from agricultural landscapes to people: a serviceshed approach. [VIEW](https://cdmcd.co/zYByY6)
