@@ -8,6 +8,7 @@ redirect_from:
 <h2><b>The University of British Columbia</b></h2>
 * Instructor (Spring 2026) Introduction to QGIS Workshop for the PERCS project 
 * Lecturer (Winter 2025) Physical Geography for the UBC-FAFU transfer program
+* Mentor (2025-2026) Master of Geomatics for Environmental Management 
 
 <h2><b>McGill University</b></h2>
 * Guest Lecturer (Winter 2023) GEOG360 Analyzing Sustainability
