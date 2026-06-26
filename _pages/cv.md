@@ -56,6 +56,7 @@ Grants & Awards
 
 Certificates & Short Courses
 ======
+- UBC Centre for Teaching, Learning and Technology (CTLT): Instructional Skills Workshop
 - Canadian EFI Summer School: Forecasting for Decision-Making: An Epidemiological & Ecological Perspective
 - Resilience Alliance Short Course: Resilience assessment and social-ecological systems methods
 - NASA ARSET Program: Applications of Remote Sensing-Based  Evapotranspiration Data Products for Agricultural and Water Resource Management 
